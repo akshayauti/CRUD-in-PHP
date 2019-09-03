@@ -1,0 +1,36 @@
+body{
+	font-family: 'Josefin Sans', sans-serif;
+}
+.mylogin{
+
+	padding: 30px;
+	display: block;
+	margin: auto;
+	background-color: #e0dcdb;
+	align-items: center;
+	width: 400px;
+    margin: 0 auto;
+    border-radius: 25px;
+  border: 2px solid #e0dcdb;
+}
+
+
+.mydelete{
+	background-color:red! important;
+
+}
+.mydelete on-hover{
+	text-decoration: underline;
+
+	
+}
+
+.myupdate{
+	background-color:green! important;
+}
+.myread{
+	background-color:#9e9e9e! important;
+
+}
+
+
